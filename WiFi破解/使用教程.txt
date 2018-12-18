@@ -1,3 +1,0 @@
-1、先运行 password.py 生成密码本  （可以在password.py内设置多少位密码和密码的组合）
-2、在 wifi_text1.py 中设置要连接的WiFi名称，运行就行了。
-3、wifi_text.py 的功能是搜索WiFi
